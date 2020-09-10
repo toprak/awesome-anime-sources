@@ -69,7 +69,7 @@ A curated list of anime streaming/downloading websites.
 ### Anime (mobile app)
 * [#Animania](http://www.mobi24.net/#anime)
 
-### Torrents
+#### Torrents
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
 * [animetorrents.me](https://animetorrents.me/)
