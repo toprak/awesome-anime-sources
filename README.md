@@ -14,9 +14,9 @@ A curated list of anime streaming/downloading websites.
 * I am **NOT** promoting the use of free anime websites by any means.
 
 
-## Contents
+# Contents
 
-### Anime
+## Anime
 
 * [9anime.to](https://www2.9anime.to/)
 * [ani-premium.com](http://ani-premium.com/)
