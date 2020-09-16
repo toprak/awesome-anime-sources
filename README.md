@@ -16,12 +16,12 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 # Contents
 * [Anime](#Anime)
-  * [Streaming](#Streaming)
-  * [Downloading](#Downloading)
+   * [Streaming](#Streaming)
+   * [Downloading](#Downloading)
     * [DDL](#DDL)
     * [Torrents](#Torrents)
-      * [Public Trackers](#Public-Trackers)
-      * [Private Trackers](#Private-Trackers)
+         * [Public Trackers](#Public-Trackers)
+         * [Private Trackers](#Private-Trackers)
  * [Listing/Database](#Listing/Database)
  * [Schedules/Charts](#Schedules/Charts)
  * [Forums](#Forums)
