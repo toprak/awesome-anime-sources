@@ -20,7 +20,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
  * [Downloading](###Downloading)
    * [DDL](####DDL)
   * [Torrents](####Torrents)
-    * [Public Trackers](#####Public Trackers)
+    * [Public Trackers](#####PublicTrackers)
     * [Private Trackers](#####Private Trackers)
   * [Listing/Database](###Listing/Database)
   * [Schedules/Charts](###Schedules/Charts)
