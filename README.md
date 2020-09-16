@@ -1,6 +1,6 @@
 # awesome-anime-sources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of anime streaming/downloading websites.
+A curated list of all things anime - streaming/downloading/reading/tracking/forums.
 
 ### Motivation
 
@@ -15,111 +15,259 @@ A curated list of anime streaming/downloading websites.
 
 
 # Contents
-* [Anime](##Anime)
+* [Anime](#Anime)
+ * [Streaming](###Streaming)
+ * [Downloading](###Downloading)
+  * [DDL](####DDL)
+  * [Torrents](####Torrents)
+    * [Public Trackers](#####Public Trackers)
+    * [Private Trackers](#####Private Trackers)
+  * [Listing/Database](###Listing/Database)
+  * [Schedules/Charts](###Schedules/Charts)
+  * [Forums/Boards for discussing Anime](###Forums/Boards for discussing Anime)
+  * [Useful apps/programs about Anime.](###Useful apps/programs about Anime.)
+    * [PC](####PC)
+    * [Mobile](####Mobile)
+  * [News about Anime](###News about Anime) 
+* [Manga](##Manga)
+  * [Online Reading](### Online Reading)
+  * [Useful Apps for Manga/Offline Reading/Online Reading](###Useful Apps for Manga/Offline Reading/Online Reading)
+   * [PC](####PC)
+   * [Mobile](####Mobile)
+ * [Listing/Database](###Listing/Database)
+ * [Forums/Boards for discussing Manga](###Forums/Boards for discussing Manga)
+ * [News about Manga](###News about Manga) 
+
 
 ## Anime
 
+### Streaming
 * [9anime.to](https://www2.9anime.to/)
-* [ani-premium.com](http://ani-premium.com/)
-* [anilinkz.to](http://anilinkz.to/)
+* [anime1.com](https://www.anime1.com/)
+* [anime8.ru](https://anime8.ru/)(Downloading and Streaming)
+* [animebam.se](https://www.animebam.se)
+* [animedaisuki.moe](https://animedaisuki.moe/)
+* [animedao.to](https://animedao.to/)
+* [animefever.tv](https://www.animefever.tv/)
+* [animefreak.tv](https://www.animefreak.tv/)
+* [animeflix.io](https://animeflix.io/)
+* [animefrenzy.net](https://animefrenzy.net/)
+* [animehub.ac](https://animehub.ac)
+* [animekisa.tv](https://animekisa.tv)
+* [animelon.com](https://animelon.com)
+* [anilinkz.to](https://anilinkz.to/)
 * [anime-loads.org](https://www.anime-loads.org/) - Contains German Dubs/Subs
-* [anime-planet.com](https://www.anime-planet.com/)
-* [anime-rebirth.com](http://anime-rebirth.com/)
-* [anime1.com](http://www.anime1.com/)
-* [animecross.net](http://www.animecross.net/)
-* [animedreaming.tv](http://www.animedreaming.tv/)
-* [animeflavour.com](http://animeflavor.com/)
-* [animefreak.tv](http://www.animefreak.tv/)
-* [animefrost.co](http://animefrost.co/)
-* [animeget.io](http://animeget.io/)
-* [animekaizoku.com](https://animekaizoku.com/)
-* [animenova.org](http://animenova.org/)
-* [animeonhand.com](http://www.animeonhand.com/)
-* [animeonlinehere.net](http://animeonlinehere.net/)
 * [animepahe.com](https://animepahe.com/)
+* [anime-planet.com](https://www.anime-planet.com/)
+* [animepill.com](https://animepill.com)
 * [animeram.cc](https://ww2.animeram.cc/)
-* [animered.me](http://animered.me/)
-* [animerush.tv](http://www.animerush.tv/)
-* [animeseason.com](http://www.animeseason.com/)
-* [animeseed.com](http://animeseed.com/)
-* [animeshow.tv](http://animeshow.tv/)
-* [animestreams.tv](https://animestreams.tv/)
-* [animetv.to](https://www2.animetv.to/)
+* [animered.me](https://animered.me/)
+* [animereborn.net](https://animereborn.net)
+* [animerush.tv](https://www.animerush.tv/)
+* [animesa.ga](https://animesa.ga)
+* [animeseries.io](https://animeseries.io)
+* [animeshow.tv](https://animeshow.tv)
+* [animesimple.com](https://animesimple.com)	
+* [animetake.tv](https://animetake.tv)
 * [anitube.site](https://www.anitube.site/)
+* [animeultima.to](https://animeultima.to)
+* [animevibe.tv](https://animevibe.tv/)
+* [animixplay.to](https://animixplay.to)
 * [aniwatch.me](https://aniwatch.me/) - Really smooth experience with continuation of episodes from the point user left and auto next episode
-* [cartooncrazy.net](http://ww1.cartooncrazy.net/)
-* [chia-anime.tv](http://www.chia-anime.tv/)
+* [aniwatcher.com](https://animewatcher.com)
+* [cartooncrazy.net](https://ww1.cartooncrazy.net/)
+* [chia-anime.tv](https://www.chia-anime.tv/)
 * [chihiro-subs.com](https://chihiro-subs.com/)
-* [chiaanime.co](http://www.chiaanime.co/)
-* [crunchyroll.com](http://www.crunchyroll.com/)
-* [daisuki.net](https://www.daisuki.net/)
-* [dubbedtv.tv](http://www.dubbedtv.tv/)
-* [eyeonanime.com](http://eyeonanime.com/)
-* [getanime.to](http://getanime.to/)
+* [crunchyroll.com](https://www.crunchyroll.com/)
+* [darkanime.stream](https://darkanime.stream)
+* [dubbedtv.tv](https://www.dubbedtv.tv/)
 * [gogoanime.io](https://www1.gogoanime.sh/)
-* [goodanime.co](http://www.goodanime.co/)
-* [haruhichan.com](http://haruhichan.com/)
-* [lovemyanime.net](http://www.lovemyanime.net/)
-* [masterani.me](https://www.masterani.me/)
+* [justdubs.org](https://justdubs.org)
+* [kawaiifu.com](https://kawaiifu.com)
+* [kaa.si](https://kaa.si)
+* [kimcartoon.to](https://kimcartoon.to)
+* [proxer.me](https://proxer.me) - Contains German Subs
+* [ryuanime.com](https://ryuanime.com)
+* [sganime.org](https://sganime.org)
+* [simpleyaweeb.com](https://simplyaweeb.com/series/)
 * [otaku-streamers.com](https://otaku-streamers.com/)
-* [soul-anime.us](http://www13.soul-anime.us/)
-* [station.f-n.me](https://station.f-n.me/)
-* [thehylia.com](https://anime.thehylia.com/)
 * [watchcartoononline.io](https://www.watchcartoononline.io/)
+* [tranimeizle.net](https://tranimeizle.net) - Contains Turkish Subs
+* [turkanime.net](https://turkanime.net/) - Contains Turkish Subs
+* [twist.moe](https://twist.moe)
 
-### Anime (mobile app)
-* [#Animania](http://www.mobi24.net/#anime)
+### Downloading
+
+#### DDL
+* [anime8.ru](https://anime8.ru/) (Downloading and Streaming)
+* [anime2enjoy.com](https://anime2enjoy.com/)
+* [anichiraku.ru](https://anichiraku.ru/)
+* [anidl.org](https://anidl.org)
+* [animekaizoku.com](https://animekaizoku.com/)
+* [animechiby.com](https://www.animechiby.com/)
+* [animekayo.com](https://animekayo.com)
+* [animencodes.com](https://animencodes.com)
+* [animeout.xyz](https://www.animeout.xyz/)
+* [erai-raws.info](https://erai-raws.info)
+* [darklegends60mb.org](https://www.darklegends60mb.org/)
+* [hi10anime.com](https://hi10anime.com/)
+* [soulreaperzone.com](https://www.soulreaperzone.com/)
+* [thehylia.com](https://anime.thehylia.com/)
+* [nibl.co.uk](https://nibl.co.uk/bots.php)(irc)
 
 #### Torrents
+
+##### Public Trackers
 * [animetosho.org](https://animetosho.org) - Torrent, NZB, DDL
 * [anidex.info](https://anidex.info/)
-* [animetorrents.me](https://animetorrents.me/)
 * [anirena.com](https://www.anirena.com/)
 * [anisearch.ru](https://anisearch.ru/)
-* [horriblesubs.info](http://horriblesubs.info/) - Best anime torrents.
-* [minglong.org](http://tracker.minglong.org:8080/)
+* [horriblesubs.info](https://horriblesubs.info/) - Best anime torrents.
+* [minglong.org](https://tracker.minglong.org:8080/)
 * [tokyotosho.info](https://www.tokyotosho.info/)
 * [nyaa.si](https://nyaa.si/)
 * [nyaapantsu](https://nyaa.pantsu.cat/)
 
-### Private trackers
-
+##### Private trackers
  * [animebytes.tv](https://animebytes.tv/)
  * [animetorrents.me](https://animetorrents.me/)
+ * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
 
-### Download Encoded MKV format
+### Listing/Database
+* [anidb.net](https://anidb.net)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [kitsu.io](https://kitsu.io)
+* [myanimelist.net](https://myanimelist.net)
+* [anilist.co](https://anilist.co)
+* [anisearch.com](https://anisearch.com)
+* [annict.com](https://annict.com)
+* [simkl.com](https://simkl.com)
+* [anime-planet.com](https://anime-planet.com]
 
-* [anime2enjoy.com](http://anime2enjoy.com/)
-* [animeaak.com](http://www.animeaak.com/)
-* [animechiby.com](http://www.animechiby.com/)
-* [animecruzers.com](http://animecruzers.com/)
-* [animencodes.com](http://animencodes.com)
-* [animeout.xyz](https://www.animeout.xyz/)
-* [animesubtitle.com](http://animesubtitle.com/)
-* [animeworldbd.com](http://animeworldbd.com)
-* [darklegends60mb.org](http://www.darklegends60mb.org/)
-* [hi10anime.com](http://hi10anime.com/)
-* [soulreaperzone.com](http://www.soulreaperzone.com/)
+### Schedules/Charts
+* [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
+* [anidb.net/anime/season](htps://anidb.net/anime/season/?do.filter=1) Season chart
+* [anidb.net/anime/schedule](https://anidb.net/anime/schedule/?do.filter=1) Schedule
+* [senpai.moe](https://www.senpai.moe/)
+* [anisearch.com](https://www.anisearch.com/anime/calendar)
+* [livechart.me](https://livechart.me)
+* [anichart.net](https://anichart.net/)
 
-### MANGA
+### Forums/Boards for discussing Anime
+* [4chan.org](https://boards.4channel.org/a/)
+* [reddit.com/r/anime](reddit.com/r/anime)
+* [animebase.me](https://animebase.me/)
+* [animesuki.com](https://forums.animesuki.com/)
+* [myanimelist.net](https://myanimelist.net/forum/)
+* [anime-planet.com](https://anime-planet.com/forum)
+* [anidb.net](anidb.net/forum)
+* [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
+* [crunchyroll.com](https://www.crunchyroll.com/forum)
 
-* [bato.to](http://bato.to/)
-* [bulumanga.com](http://bulumanga.com/)
-* [jaiminisbox.com](https://jaiminisbox.com/)
-* [mangafox.me](https://mangafox.me/)
-* [mangafreak.eu](http://mangafreak.eu/)
-* [mangahere.co](https://www.mangahere.co/)
-* [mangakakalot.com](http://mangakakalot.com/)
-* [manganel.com](http://manganel.com)
-* [mangapanda.com](http://www.mangapanda.com/)
-* [mangapark.me](http://mangapark.me/)
-* [mangareader.net](http://www.mangareader.net/)
-* [mangaseeonline.us](http://mangaseeonline.us/)
-* [mangastream.com](http://mangastream.com/)
+### Useful apps/programs about Anime.
+
+#### PC
+* [hakuneko](https://github.com/manga-download/hakuneko)
+* [anime-downloader](https://github.com/vn-ki/anime-downloader)
+* [monkey-dl](https://github.com/Oshan96/monkey-dl)
+* [taiga](https://github.com/erengy/taiga)
+* [kawanime](https://github.com/Kylart/KawAnime)
+* [yuna](https://github.com/BeeeQueue/yuna)
+* [mikazuki](https://github.com/NicoAiko/mikazuki)
+* [hachidori](https://github.com/Atelier-Shiori/hachidori)
+* [trackma](https://github.com/z411/trackma)
+
+#### Mobile
+* [#Animania](https://www.mobi24.net/#anime)
+* [Anyme](https://zunjae.github.io/anymeapp.com)
+* [AnimeDLR](https://github.com/cylonu87/AnimeDLR)
+* [Animeglare](https://animeglare.xyz)
+* [9Animator](https://nineanimator.marcuszhou.com/)
+* [Taiyaki](https://github.com/Michael24884/TaiYaKiAnime)
+* [Animeboya](https://github.com/Tu2l/Animeboya)
+* [AnimeZone](https://github.com/spyderbibek/Anime-Zone)
+* [AniMixPlay](https://play.google.com/store/apps/details?id=xyz.appmaker.pundoc)
+* [FireAnime](https://github.com/XenTeckzX/FireAnime)
+* [MALClient](https://play.google.com/store/apps/details?id=com.drutol.malclient)
+* [AniTrend](https://play.google.com/store/apps/details?id=com.mxt.anitrend)
+* [LiveChart](https://play.google.com/store/apps/details?id=me.livechart.android)
+* [Crunchyroll](https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid)
+
+### News about Anime
+* [haruhichan.com](https://haruhichan.com/)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [manga.tokyo/](https://manga.tokyo/)
+* [otakuusamagazine.com](https://otakuusamagazine.com)
+
+## MANGA
+
+### Online Reading
+* [1stkissmanga](https://1stkissmanga.com/)
+* [Chibi manga reader](https://www.cmreader.info/)
+* [Fallen Angels](https://manga.fascans.com/)
+* [Mangadex](https://mangadex.org/)
+* [bato.to](https://bato.to/)
+* [bulumanga.com](https://bulumanga.com/)
+* [fanfox.net](https://fanfox.net/)
+* [mangakomi](https://mangakomi.com/)
+* [mangaplus](https://mangaplus.shueisha.co.jp/updates) Free, Official Source for Shounen Jump Series
+* [mangafreak.eu](https://mangafreak.eu/)
+* [mangahere.cc](https://mangahere.cc/)
+* [mangakakalot.com](https://mangakakalot.com/)
+* [manganelo.com](https://manganelo.com/)
+* [mangapanda.com](https://www.mangapanda.com/)
+* [mangapark.net](https://mangapark.net/)
+* [mangareader.net](https://www.mangareader.net/)
+* [mangasee123.com](https://mangasee123.com/)
 * [ReadManga Today](https://www.readmng.com/)
-* [zingbox.me](http://www.zingbox.me/)
+* [Mangazuki](https://mangazuki.me/)
+* [readcomiconline](https://readcomiconline.to/)
+* [readm](https://readm.org/)
+* [readmanhua](https://readmanhua.net/)
+* [weebtoons](https://www.webtoons.com/en/)
+* [readmanhua](https://readmanhua.net/)
+* [WuxiaWorld](https://wuxiaworld.site/)
 
-### MANGA (mobile app)
-* [mangazone](https://play.google.com/store/apps/details?id=com.ng.mangazone&hl=en)
-* [Manga Rock](https://play.google.com/store/apps/details?id=com.notabasement.mangarock.android.titan)
+### Useful Apps for Manga/Offline Reading/Online Reading
+
+#### PC
+* [hakuneko](https://github.com/manga-download/hakuneko)
+* [FMD](https://github.com/riderkick/FMD)
+* [doujindownloader](https://doujindownloader.com/)
+* [OpenComic](https://github.com/ollm/OpenComic)
+
+#### Mobile
 * [Tachiyomi](https://github.com/inorichi/tachiyomi)
+* [tachiyomij2k](https://github.com/Jays2Kings/tachiyomiJ2K) Fork of Tachiyomi but it has way better ui than tachiyomi
+* [MangaReader](https://apps.apple.com/us/app/manga-reader-manga-viewer/id647701066)
+* [Paperback](https://apps.apple.com/app/paperback-manga-reader/id1519509781)
+* [mangazone](https://mangazoneapp.com/)
+* [Crunchyroll Manga](https://play.google.com/store/apps/details?id=com.crunchyroll.crmanga&hl=en)
+* [MangaPlus](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus&hl=en)
+
+### Listing/Database
+* [mangaupdates](mangaupdates.com)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [kitsu.io](https://kitsu.io)
+* [myanimelist.net](https://myanimelist.net)
+* [anilist.co](https://anilist.co)
+* [anisearch.com](https://anisearch.com)
+* [anime-planet.com](https://anime-planet.com)
+
+### Forums/Boards for discussing Manga
+* [4chan.org](https://boards.4channel.org/a/)
+* [reddit.com](reddit.com/r/manga)
+* [animebase.me](https://animebase.me/)
+* [animesuki.com](https://forums.animesuki.com/)
+* [myanimelist.net](https://myanimelist.net/forum/)
+* [anime-planet.com](https://anime-planet.com/forum)
+* [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
+* [crunchyroll.com](https://www.crunchyroll.com/forum)
+* [mangahelpers](https://mangahelpers.com/)
+* [mangaupdates](https://www.mangaupdates.com/forums.php)
+
+### News about Manga
+* [haruhichan.com](https://haruhichan.com/)
+* [animenewsnetwork.com](https://animenewsnetwork.com)
+* [manga.tokyo/](https://manga.tokyo/)
+* [otakuusamagazine.com](https://otakuusamagazine.com)
