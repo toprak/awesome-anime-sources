@@ -14,6 +14,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * I am **NOT** promoting the use of free anime websites by any means.
 
 
+
 # Contents
 * [Anime](#Anime)
  * [Streaming](###Streaming)
@@ -35,9 +36,8 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
    * [PC](####PC)
    * [Mobile](####Mobile)
  * [Listing/Database](###Listing/Database)
- * [Forums/Boards for discussing Manga](###Forums/Boardsfordiscussing Manga)
+ * [Forums/Boards for discussing Manga](###Forums/BoardsfordiscussingManga)
  * [News about Manga](###NewsaboutManga) 
-
 
 ## Anime
 
