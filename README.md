@@ -15,7 +15,7 @@ A curated list of anime streaming/downloading websites.
 
 
 # Contents
-* [Anime](## Anime)
+* [Anime](##Anime)
 
 ## Anime
 
