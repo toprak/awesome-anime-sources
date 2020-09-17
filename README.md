@@ -6,6 +6,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 * Rather than having all anime websites bookmarked, access them all from one place.
 * Keeping tons of alternatives in case our favourite anime website is down.
+* All things related to anime/manga in one place
 
 
 #### NOTE:
@@ -16,27 +17,27 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 
 # Contents
 * [Anime](#Anime)
-   * [Streaming](#Streaming)
-   * [Downloading](#Downloading)
+  * [Streaming](#Streaming)
+  * [Downloading](#Downloading)
     * [DDL](#DDL)
     * [Torrents](#Torrents)
-         * [Public Trackers](#Public-Trackers)
-         * [Private Trackers](#Private-Trackers)
- * [Listing/Database](#Listing/Database)
- * [Schedules/Charts](#Schedules/Charts)
- * [Forums](#Forums)
- * [Apps](#Apps)
+      * [Public Trackers](#Public-Trackers)
+      * [Private Trackers](#Private-Trackers)
+  * [Anime Listing/Database](#Anime-ListingDatabase)
+  * [Schedules/Charts](#SchedulesCharts)
+  * [Forums](#Forums)
+  * [Apps](#Apps)
     * [PC](#PC)
     * [Mobile](#Mobile)
   * [News about Anime](#News-about-Anime) 
 * [Manga](#Manga)
   * [Online Reading](#Online-Reading)
   * [Apps](#Apps)
-   * [PC](#PC)
-   * [Mobile](#Mobile)
- * [Listing/Database](#Listing/Database)
- * [Forums](#Forums)
- * [News about Manga](#News-about-Manga) 
+    * [PC](#PC)
+    * [Mobile](#Mobile)
+  * [Manga Listing/Database](#Manga-ListingDatabase)
+  * [Forums](#Forums)
+  * [News about Manga](#News-about-Manga) 
 
 
 ## Anime
@@ -133,7 +134,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
  * [animetorrents.me](https://animetorrents.me/)
  * [bakabt.me](https://bakabt.me) (If you want to get a bakabt account, you should go to their irc which is #BakaBT on Rizon, and take a queue number for getting reviewed.)
 
-### Listing/Database
+### Anime Listing/Database
 * [anidb.net](https://anidb.net)
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [kitsu.io](https://kitsu.io)
@@ -142,11 +143,11 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [anisearch.com](https://anisearch.com)
 * [annict.com](https://annict.com)
 * [simkl.com](https://simkl.com)
-* [anime-planet.com](https://anime-planet.com]
+* [anime-planet.com](https://anime-planet.com)
 
 ### Schedules/Charts
 * [myanimelist.net/anime/season](https://myanimelist.net/anime/season)
-* [anidb.net/anime/season](htps://anidb.net/anime/season/?do.filter=1) Season chart
+* [anidb.net/anime/season](https://anidb.net/anime/season/?do.filter=1) Season chart
 * [anidb.net/anime/schedule](https://anidb.net/anime/schedule/?do.filter=1) Schedule
 * [senpai.moe](https://www.senpai.moe/)
 * [anisearch.com](https://www.anisearch.com/anime/calendar)
@@ -160,7 +161,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [animesuki.com](https://forums.animesuki.com/)
 * [myanimelist.net](https://myanimelist.net/forum/)
 * [anime-planet.com](https://anime-planet.com/forum)
-* [anidb.net](anidb.net/forum)
+* [anidb.net](https://anidb.net/forum)
 * [animenewsnetwork.com](https://www.animenewsnetwork.com/bbs/phpBB2/)
 * [crunchyroll.com](https://www.crunchyroll.com/forum)
 
@@ -245,7 +246,7 @@ A curated list of all things anime - streaming/downloading/reading/tracking/foru
 * [Crunchyroll Manga](https://play.google.com/store/apps/details?id=com.crunchyroll.crmanga&hl=en)
 * [MangaPlus](https://play.google.com/store/apps/details?id=jp.co.shueisha.mangaplus&hl=en)
 
-### Listing/Database
+### Manga Listing/Database
 * [mangaupdates](mangaupdates.com)
 * [animenewsnetwork.com](https://animenewsnetwork.com)
 * [kitsu.io](https://kitsu.io)
